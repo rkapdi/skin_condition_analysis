@@ -104,4 +104,11 @@ In the training dataset, there are a total of 588 images belonging to 5 classes 
 In the testing dataset, there are a total of 166 images also belonging to the same 5 classes.
 
 
+## Suitable Datasets:
+
+### 1. ACNE 04
+### 2. ACNE Grading Classification Dataset
+### 3. Face Dataset (Acne, Clear, Blackhead)
+
+
 
