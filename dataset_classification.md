@@ -4,3 +4,22 @@ Welcome to the "Skin Condition Dataset Classification" repository! This Markdown
 Here, you'll find detailed classifications and specifications for datasets that can be used in machine learning tasks and research pertaining to dermatology and skin health. 
 Whether you're a data scientist, researcher, or enthusiast, this resource is designed to help you discover, reference, and contribute to a growing collection of datasets, 
 making it easier to explore and leverage valuable data for skin condition analysis.
+
+## HAM10000 Dataset
+
+## ISIC Archive Collection
+
+## Dermnet
+
+## Variation of Dermnet
+
+
+
+## Acne Grading
+
+## Face Dataset (Acne, Clear, Blackhead)
+
+## Skin Disease DS
+
+
+
