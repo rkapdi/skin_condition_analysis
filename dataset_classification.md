@@ -7,6 +7,12 @@ making it easier to explore and leverage valuable data for skin condition analys
 
 ## HAM10000 Dataset
 
+## ACNE04
+The ACNE04 dataset includes 3756 Chinese face images with Acne. The ACNE04 dataset includes the annotations of local lesion numbers and global acne severity based on Hayashi Criterion.
+https://drive.google.com/drive/folders/18yJcHXhzOv7H89t-Lda6phheAicLqMuZ
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Joint_Acne_Image_Grading_and_Counting_via_Label_Distribution_Learning_ICCV_2019_paper.pdf
+
+
 ## ISIC Archive Collection
 
 Challenge 2016: Test
